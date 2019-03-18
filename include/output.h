@@ -1,5 +1,5 @@
 #pragma once
-#include <wayland-server.h>
+
 #include <wlr/backend.h>
 
 /*Holds this output's state*/
